@@ -458,7 +458,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: #109de3;
   border-radius: 50px;
   line-height: 0;
 }
@@ -510,7 +510,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #109de3;
 }
 
 /*--------------------------------------------------------------
@@ -798,7 +798,7 @@ section .container {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: #109de3;
 }
 
 .portfolio #portfolio-flters li:last-child {
