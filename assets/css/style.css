@@ -36,12 +36,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #109de3;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #109de3;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #18d26e;
+  border-bottom: 2px solid #109de3;
   padding-bottom: 6px;
 }
 
@@ -124,7 +124,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: #109de3;
 }
 
 @media (max-width: 992px) {
@@ -242,7 +242,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: #109de3;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -386,7 +386,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: #109de3;
   margin: 4px 10px;
 }
 
@@ -406,7 +406,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #109de3;
 }
 
 .about-me .content ul {
@@ -427,7 +427,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #109de3;
   line-height: 0;
 }
 
@@ -1044,7 +1044,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  color: #109de3;
 }
 
 .contact .php-email-form {
