@@ -648,7 +648,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: #109de3;
   margin-bottom: 10px;
 }
 
@@ -681,8 +681,8 @@ section .container {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: #109de3;
+  border: 2px solid #109de3;
 }
 
 /*--------------------------------------------------------------
@@ -1007,7 +1007,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: #109de3;
   border-radius: 50%;
   padding: 14px;
   float: left;
